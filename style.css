@@ -1,0 +1,41 @@
+body{
+	background: grey;
+	margin: 0;
+}
+
+header h1{
+	background: black;
+	color: yellow;
+	margin: 0;
+}
+
+h1{
+	text-align: left;
+}
+
+.top{
+	text-align: center;
+}
+
+nav{
+	border: solid;
+	border-color: blue;
+	border-top: black;
+	border-left: black;
+	border-right: black;
+}
+
+nav ul li{ 
+	list-style-type: none;
+	display: inline-block;
+	align-items: center;
+	margin: 0;
+	border-top: solid;
+	border-bottom: solid;
+	border-left: solid;
+	border-right: solid;
+}
+
+article{
+	border: solid;
+}
